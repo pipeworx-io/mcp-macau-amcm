@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/macau-amcm",
   "title": "Macau Amcm",
   "description": "Macau AMCM MCP — daily interbank FX mid-rates for the Macau pataca (MOP)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/macau-amcm",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-macau-amcm",
