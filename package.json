@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-macau-amcm",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Macau AMCM MCP — daily interbank FX mid-rates for the Macau pataca (MOP)",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-dc3bb669ca33a33ea6f21de62bf054b71828367b0c04ef7bff6b84ceaa74454e",
-    "sourceCommit": "adb69d997f82a62e8e22b594488c7d04a227db35"
+    "sourceHash": "v1-00fc07d9cc490d3f48c77f8451d3f68e8888092f4f08493c3cac7b76b2e404d3",
+    "sourceCommit": "1064560fd9dcd0d6fc2606298c2ba244b3a1fbeb"
   }
 }
