@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-macau-amcm",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Macau AMCM MCP — daily interbank FX mid-rates for the Macau pataca (MOP) and MONIA (MOP Overnight Index Average) from AMCM (Autoridade Monetária de Macau / 澳門金融管理局, the Monetary Authority of Macao).",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "macau-amcm",
     "gatewaySlug": "macau-amcm",
-    "sourceHash": "v1-48c7ea3c601f05aed60a0ad4a1e016766b3a677a3f372559dc22087215918cd2",
-    "sourceCommit": "5c89d6abb778d45da5d92002eb251978622bedf9"
+    "sourceHash": "v1-70eafde6a5ea3fa5d3007cd08ac1cd6613fa02bba2647318af9ce0b9aae29cab",
+    "sourceCommit": "236b0a46d91f343fe094da9f499c378e88f78312"
   }
 }
